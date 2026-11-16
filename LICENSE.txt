@@ -1,0 +1,51 @@
+Klever Desktop Studio - End User License (Freeware)
+
+Copyright (c) 2026 the author of Klever Desktop Studio. All rights reserved.
+
+1. Grant
+   You may download, install and use the unmodified installation packages published in
+   this repository, free of charge, for private and commercial purposes, on any number of
+   devices. You may pass on the unmodified packages together with this license text.
+
+2. Restrictions
+   You may not modify, decompile, disassemble or reverse engineer the software, create
+   derivative works, or distribute modified versions, except to the extent that applicable
+   law expressly permits this despite this restriction. The source code is not published
+   and no right to obtain it is granted.
+
+3. Self-custody
+   This is a self-custodial wallet. The software never transmits your private keys,
+   recovery phrases or passwords. You alone are responsible for keeping them safe, for
+   your backups, for the addresses and amounts you confirm, and for the transactions you
+   send. Transactions on a blockchain are final and cannot be reversed by anyone.
+
+4. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, ACCURACY OF DISPLAYED BALANCES, PRICES OR FEES, AND
+   NON-INFRINGEMENT.
+
+5. Limitation of liability
+   To the maximum extent permitted by applicable law, the author shall not be liable for
+   any loss of crypto-assets, data or profits, or for any direct, indirect, incidental or
+   consequential damages arising out of the use of or inability to use the software,
+   including losses caused by network failures, third-party smart contracts, incorrect
+   node responses, or user error. Mandatory liability under applicable law (for example
+   for intent or gross negligence) remains unaffected.
+
+6. Third-party components
+   The software contains open-source components under their own licenses, which continue
+   to apply to those components:
+   Avalonia (MIT), CommunityToolkit.Mvvm (MIT), Newtonsoft.Json (MIT), Velopack (MIT),
+   Portable.BouncyCastle (MIT), CardanoBech32, dotnetstandard-bip39, and the Barlow
+   font family (SIL Open Font License 1.1).
+   The respective license texts are available from the projects' own repositories.
+
+7. Names
+   Klever, KleverChain, KleverScan, bitcoin.me and GitHub are names of their respective
+   projects or companies. This software is an independent application and is not
+   affiliated with, endorsed by or sponsored by any of them.
+
+8. Termination
+   This license ends automatically if you breach it. On termination you must stop using
+   the software.
